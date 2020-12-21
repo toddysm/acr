@@ -38,6 +38,11 @@ A set of short links for presentations & social media.
 | [Webhook Notifications](https://aka.ms/acr/webhooks) | https://aka.ms/acr/webhooks |
 | [Auto-purge](https://aka.ms/acr/auto-purge) | https://aka.ms/acr/auto-purge |
 | [OCI Artifacts](https://aka.ms/acr/artifacts) | https://aka.ms/acr/artifacts |
+| [Availability Zones](https://aka.ms/acr/az) | https://aka.ms/acr/az |
+| [Network Rules Bypass](https://aka.ms/acr/network-bypass) | https://aka.ms/acr/network-bypass |
+| [Artifact Transfer](https://aka.ms/acr/network-bypass) | https://aka.ms/acr/network-bypass |
+| [Connected Registries](https://aka.ms/acr/connected-registry) | https://aka.ms/acr/connected-registry |
+
 
 ### Diagnostic & Troubleshooting Links
 
